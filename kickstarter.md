@@ -52,6 +52,10 @@ While both appreciated and accepted, contributors to an anthology are not *requi
 
 There will be no preferential treatment toward current or future submissions based upon whether the submitter has backed a crowdfunded project.  Executing or inciting such *quid pro quo* behavior is strictly forbidden.
 
+In such instances that an open call occurs after the successful completion of a crowdfunding campaign, the submissions editor(s) will not have access to the lists of backers, nor will the organizer of the campaign have access to the lists of submitters.
+
+Should a submitter refer to their level of backing of the crowdfunding campaign in the submission, cover letter, or correspondence with the submission editor(s) prior to story acceptance or rejection, the submission will be summarily *rejected*.
+
 ## Attribution, Prior Versions, Licensing
 
 * This document is released under the MIT license
