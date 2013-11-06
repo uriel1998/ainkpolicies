@@ -16,18 +16,18 @@ Calls for submission shall include the following features:
 
 1. A clearly stated minimum "funded" payrate and what payrate there will be if the project exceeds its funding goal.
 2. A clearly stated list of what options will be considered if the project does not successfully fund.  These may include (but are not limited to): 
-* Possible further attempts at funding - including number of attempts and possible change of platform
-* Alternate funding mechanisms (e.g. changing to a royalty-only basis)
-* Alternate pay rates
+    * Possible further attempts at funding - including number of attempts and possible change of platform
+    * Alternate funding mechanisms (e.g. changing to a royalty-only basis)
+    * Alternate pay rates
 
 ## Contracts and Payments
 
 1. Contracts will be preferentially executed *after* the completed crowdfunding campaign.
 2. Author payments will be completed as soon as possible after the successful completion of the campaign.
 3. Should a contract be required *prior* to the successful completion of the crowdfunding campaign, it will include clauses specifying **all** of the following:
-*  The payment is upon *publication* or within 30 days of the successful funding of the crowdfunding campaign, whichever comes first.
-*  There is a contingency option if the crowdfunding fails which the author either agrees on beforehand or has an option to withdraw penalty-free from the contract at that time.
-*  There is a strong Publish-By Or Revert clause where all rights revert to the author if the story is not published by a set date.
+    *  The payment is upon *publication* or within 30 days of the successful funding of the crowdfunding campaign, whichever comes first.
+    *  There is a contingency option if the crowdfunding fails which the author either agrees on beforehand or has an option to withdraw penalty-free from the contract at that time.
+    *  There is a strong Publish-By Or Revert clause where all rights revert to the author if the story is not published by a set date.
 
 ## Backer Rewards
 
