@@ -18,4 +18,8 @@ For me (Steven Saus) to be present as a panelist, vendor, participant, or GoH at
 2. That the convention make this policy obvious by at least one and preferably more than one of the following: posting the policy on their Website, placing it in their written and electronic programs, putting up flyers in the common areas, discussing the policy at opening ceremonies or at other well-attended common events.
 3. In cases when I am invited as a Guest of Honor, personal affirmation from the convention chair that a harassment policy exists, that it will be adequately publicized to conventiongoers, and that all harassment complaints will be dealt with promptly and fairly, with no excuses or rationalizations for delaying action when such becomes necessary. 
 
-A copy of this policy was originally at [https://gist.github.com/uriel1998/5711406](https://gist.github.com/uriel1998/5711406); this document supercedes it.
+## Attribution, Prior Versions, Licensing
+
+* A copy of this policy was originally at [https://gist.github.com/uriel1998/5711406](https://gist.github.com/uriel1998/5711406); this document supercedes it.
+* This document is released under the MIT license
+* Comments, including suggested revisions and inclusions to this policy, are welcome
