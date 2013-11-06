@@ -54,6 +54,5 @@ There will be no preferential treatment toward current or future submissions bas
 
 ## Attribution, Prior Versions, Licensing
 
-* A copy of this policy was originally at [https://gist.github.com/4664395](https://gist.github.com/4664395); this document supercedes it.
 * This document is released under the MIT license
 * Comments, including suggested revisions and inclusions to this policy, are welcome
