@@ -10,6 +10,10 @@ The advent of crowdfunding permits artists - including authors, anthologists, an
 
 Alliteration Ink will preferentially utilize crowdfunding for raising production costs for a project.  This is to minimize ethical conflicts and maximize the focus on creating excellent work.  In such instances where a call for submissions occurs *after* the successful completion of a crowdfunding project, the creation of the best possible work shall be the determinant for submission acceptance.
 
+## Advertising
+
+Alliteration Ink will not use headliner names or "attached authors" to advertise a crowdfunded project without having reasonable assurances that such author's work will actually appear in the project.
+
 ## Call For Submission
 
 Calls for submission shall include the following features:
@@ -45,6 +49,7 @@ The scope of any backer reward, as well as the responsibilities of the entity of
 * A timetable of delivery/fulfillment of the Reward
 * Any costs or reimbursement involved, as needed
 * That the offering of the Reward is independent of the contract for the story in the anthology
+* Any critiques offered as backer rewards will be fulfilled *after* any open call for submissions to avoid conflicts of interest.
 
 ## Campaign Backers
 
