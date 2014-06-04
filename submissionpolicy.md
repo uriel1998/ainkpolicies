@@ -21,7 +21,10 @@ Information from the survey will **not** be shared with the individuals selectin
 ### Protection of Privacy
 
 No identifying information (e.g. name, IP address, story title) will be requested as part of the survey process.
-Individual survey responses will only be seen by the researcher.  Only aggregate data will be released.
+
+Individual survey responses will only be seen by the researcher.  
+
+Only aggregate data will be released.
 
 ### Information Requested
 
