@@ -4,11 +4,19 @@
 
 ## Goals
 
-Alliteration Ink wishes to publish the best stories from *all* authors, of *all* walks of life.
+Alliteration Ink wishes to publish the best stories from *all* authors, of *all* walks of life.  
+
+This policy outlines and limits the ways in which Alliteration Ink will gather and use information about submitters.
 
 ## Methodology
 
-Authors who submit via an open call for submission will be invited to participate in a survey.  Participation in the survey will be voluntary.  Participation or refusal to participate will not impact the acceptance or rejection of any submission to Alliteration Ink.
+Authors who submit via an open call for submission will be invited to participate in a survey.  
+
+Participation in the survey will be voluntary.  
+
+Participation or refusal to participate will not impact the acceptance or rejection of any submission to Alliteration Ink.
+
+Information from the survey will **not** be shared with the individuals selecting stories.
 
 ### Protection of Privacy
 
