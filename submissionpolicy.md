@@ -4,7 +4,7 @@
 
 ## Goals
 
-Alliteration Ink wishes to publish the best stories from *all* authors, of *all* walks of life.  
+Alliteration Ink wishes to publish the best stories from *all* authors, of *all* walks of life.  To ensure we are meeting that goal, I must gather demographic information about those who submit to open calls.
 
 This policy outlines and limits the ways in which Alliteration Ink will gather and use information about submitters.
 
