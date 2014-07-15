@@ -8,3 +8,4 @@ These are style guide notes for Alliteration Ink
 * Scene breaks should be centered with either `***` or `###`
 * Do not use spaces or tabs to indent paragraphs.
 * Smart quotes, please.  Yes, I hate them too, but it's even harder to fix them.
+* Put the word END in all caps, centered, at the end of the story.
