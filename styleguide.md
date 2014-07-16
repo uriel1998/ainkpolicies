@@ -10,3 +10,4 @@ These are style guide notes for Alliteration Ink
 * Smart quotes, please.  Yes, I hate them too, but it's even harder to fix them.
 * Put the word END in all caps, centered, at the end of the story.
 * Use three periods for ellipses and -- for m-dashes.
+* Yes, use the Oxford comma.
