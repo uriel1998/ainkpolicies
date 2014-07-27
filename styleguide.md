@@ -11,3 +11,6 @@ These are style guide notes for Alliteration Ink
 * Put the word END in all caps, centered, at the end of the story.
 * Use three periods for ellipses and -- for m-dashes.
 * Yes, use the Oxford comma.
+* Because I work with anthologies and multiple formats, When asked for edits, please provide them like such:
+	In the line "Do not use spaces or tabs to indent paragraphs" change it to:
+	"For the love of all that is beautiful, do not use spaces or tabs to indent paragraphs"
