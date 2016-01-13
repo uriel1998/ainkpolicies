@@ -39,8 +39,8 @@ All transactions are processed through a gateway provider and are not stored or 
 **Do we use 'cookies'?**
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-**We use cookies to:**
+ 
+**We use cookies to:**  
       **•** Help remember and process the items in the shopping cart.  
       **•** Understand and save user's preferences for future visits.  
       **•** Keep track of advertisements.  
